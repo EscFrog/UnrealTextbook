@@ -1662,3 +1662,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.28-05.24.15:658][132]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.28-05.24.15:658][132]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
 [2023.02.28-05.24.15:658][132]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.27.12:853][910]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.27.15:325][203]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.29.09:776][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.29.09:779][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.28-05.29.11:803][846]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevelDAAD837743F694ED3060F8BA074143D6.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.29.11:821][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.29.11:840][846]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData5DEEEE94492A114B5A68BDB59EA7060D.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.29.11:865][846]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.29.11:865][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.29.11:865][846]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.29.16:428][368]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.29.17:411][483]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.30.30:670][139]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.30.32:889][403]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.30.33:678][497]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.30.43:690][667]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.30.50:879][529]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.31.12:699][124]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.31.18:340][800]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.31.54:805][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame3)
+[2023.02.28-05.31.59:911][715]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.32.00:417][775]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.32.28:684][139]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.32.29:542][241]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.32.39:472][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame4)
+[2023.02.28-05.32.57:941][610]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.32.58:372][661]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.33.32:997][755]LogActorFactory: Actor Factory created SM_WindowFrame
+[2023.02.28-05.33.35:289][ 29]LogActorFactory: Actor Factory created SM_WindowFrame
+[2023.02.28-05.35.35:224][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.35.35:227][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.28-05.35.37:434][287]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevelB01686BC42F66428520D6DA61AE61C06.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.35.37:453][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.35.37:469][287]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData4F5E2FAE4926B26A391171B0E027D2D5.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.35.37:498][287]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.35.37:498][287]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.35.37:498][287]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.35.38:319][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2023.02.28-05.35.39:462][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2023.02.28-05.36.34:545][ 18]Cmd: EDIT COPY
+[2023.02.28-05.36.34:773][ 39]Cmd: EDIT PASTE
+[2023.02.28-05.36.54:507][354]Cmd: EDIT COPY
+[2023.02.28-05.36.54:733][381]Cmd: EDIT PASTE
+[2023.02.28-05.38.22:728][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.02.28-05.38.25:861][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2023.02.28-05.38.27:386][429]Cmd: EDIT COPY
+[2023.02.28-05.38.27:586][453]Cmd: EDIT PASTE
+[2023.02.28-05.39.02:184][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.02.28-05.39.04:797][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.39.04:817][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.28-05.39.07:099][869]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel5C21C4B14536CAC2B610B9949E09B02F.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.39.07:129][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.39.07:150][869]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData562443CD4943BC9452F2DBA8D5CDF6B1.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.39.07:171][869]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.39.07:172][869]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.39.07:172][869]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.39.24:344][838]LogActorFactory: Actor Factory created SM_GlassWindow
+[2023.02.28-05.39.27:759][247]LogActorFactory: Actor Factory created SM_GlassWindow
+[2023.02.28-05.41.21:859][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.41.21:863][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.02.28-05.41.24:201][832]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel09B4F1DB442B4BA0D907729856D8D426.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.41.24:217][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.41.24:235][832]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData29BEE07E402536C4096D409A044CFB9B.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.41.24:248][832]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.41.24:248][832]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.41.24:248][832]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.41.26:252][ 65]Cmd: DELETE
+[2023.02.28-05.41.26:265][ 65]Cmd: ACTOR DELETE
+[2023.02.28-05.41.26:272][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-05.41.26:275][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.02.28-05.41.26:276][ 65]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.02.28-05.41.28:214][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.41.28:217][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.02.28-05.41.30:501][293]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevelA55EEB72430377ED437A4992F1A09424.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.41.30:525][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.41.30:548][293]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData968A397447244264650341A124B0756F.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.41.30:573][293]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.41.30:573][293]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.41.30:573][293]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.41.47:965][350]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.41.48:768][446]LogActorFactory: Actor Factory created SM_DoorFrame
+[2023.02.28-05.42.01:584][979]Cmd: TRANSACTION UNDO
+[2023.02.28-05.42.01:584][979]LogEditorTransaction: Undo Rotate Actors
+[2023.02.28-05.44.53:899][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.44.53:916][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.28-05.44.56:312][762]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevelB7D6B01D493DF86EDB8B538DC3C235F3.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.44.56:336][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.44.56:355][762]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData77A14E1F42A8E4414FA26FA6BE4CEA1F.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.44.56:371][762]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.44.56:371][762]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.44.56:371][762]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.45.01:007][300]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.45.02:238][447]LogActorFactory: Actor Factory created SM_Door
+[2023.02.28-05.45.24:402][ 54]Cmd: DUPLICATE
+[2023.02.28-05.45.24:402][ 54]Cmd: ACTOR DUPLICATE
+[2023.02.28-05.45.52:671][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door5)
+[2023.02.28-05.46.00:877][386]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.02.28-05.46.01:738][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.46.01:741][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.28-05.46.04:103][485]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel4DFD13F641157FDC305F7F8A9DF5B058.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.46.04:127][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.46.04:147][485]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltDataFD4D6C9545EED18186BD3B9B3DAFA999.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.46.04:174][485]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.46.04:174][485]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.46.04:175][485]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.46.42:527][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2023.02.28-05.46.44:626][262]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame)
+[2023.02.28-05.47.09:720][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame2)
+[2023.02.28-05.47.11:211][371]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door2)
+[2023.02.28-05.47.34:665][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2023.02.28-05.47.36:124][257]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame3)
+[2023.02.28-05.47.58:385][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame4)
+[2023.02.28-05.48.00:051][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door4)
+[2023.02.28-05.49.17:170][137]Cmd: DUPLICATE
+[2023.02.28-05.49.17:170][137]Cmd: ACTOR DUPLICATE
+[2023.02.28-05.49.56:872][800]Cmd: TRANSACTION UNDO
+[2023.02.28-05.49.56:872][800]LogEditorTransaction: Undo Rotate Actors
+[2023.02.28-05.50.25:449][129]Cmd: DELETE
+[2023.02.28-05.50.25:449][129]Cmd: ACTOR DELETE
+[2023.02.28-05.50.25:451][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.28-05.50.25:459][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.28-05.50.25:460][129]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.02.28-05.50.40:633][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.50.40:636][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.02.28-05.50.43:162][936]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel25D50F5042FE6EF44FE69ABDF8551AF3.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.50.43:187][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.50.43:207][936]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData42EEB4B74497BC004E0E05A22B89B65E.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.50.43:222][936]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.50.43:222][936]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.50.43:222][936]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
+[2023.02.28-05.51.47:177][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.02.28-05.51.47:905][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-05.51.47:908][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.02.28-05.51.50:411][572]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel44FA6B4F4ED3424CD466069E6E0B37DE.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel.umap'
+[2023.02.28-05.51.50:434][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GeometryStudyLevel_BuiltData" FILE="E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset" SILENT=true
+[2023.02.28-05.51.50:454][572]LogSavePackage: Moving 'E:/UnrealTextbook/MyProject/Saved/GeometryStudyLevel_BuiltData19C1A7494EB137E3AF2A3A92EEF7EB4B.tmp' to 'E:/UnrealTextbook/MyProject/Content/Levels/GeometryStudyLevel_BuiltData.uasset'
+[2023.02.28-05.51.50:480][572]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-05.51.50:480][572]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/GeometryStudyLevel_BuiltData.GeometryStudyLevel_BuiltData
+[2023.02.28-05.51.50:480][572]LogContentValidation: Display: Validating World /Game/Levels/GeometryStudyLevel.GeometryStudyLevel
