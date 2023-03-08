@@ -17,7 +17,12 @@ void ACodingTestActor::BeginPlay()
 	Super::BeginPlay();
 
 	// print Hello World
-	UE_LOG(LogTemp, Warning, TEXT("Hello World"));;
+	// UE_LOG(LogTemp, Warning, TEXT("Hello World"));;
+	UE_LOG(LogTemp, Warning, TEXT("%d"), number1);
+	UE_LOG(LogTemp, Warning, TEXT("%.2f"), number2);
+	UE_LOG(LogTemp, Warning, TEXT("%s"), *name);
+	UE_LOG(LogTemp, Warning, TEXT("%s"), *name2);
+
 	
 }
 
