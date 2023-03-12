@@ -18,10 +18,15 @@ void ACodingTestActor::BeginPlay()
 
 	// print Hello World
 	// UE_LOG(LogTemp, Warning, TEXT("Hello World"));;
-	UE_LOG(LogTemp, Warning, TEXT("%d"), number1);
-	UE_LOG(LogTemp, Warning, TEXT("%.2f"), number2);
-	UE_LOG(LogTemp, Warning, TEXT("%s"), *name);
-	UE_LOG(LogTemp, Warning, TEXT("%s"), *name2);
+	//UE_LOG(LogTemp, Warning, TEXT("%d"), number1);
+	//UE_LOG(LogTemp, Warning, TEXT("%.2f"), number2);
+	//UE_LOG(LogTemp, Warning, TEXT("%s"), *name);
+	//UE_LOG(LogTemp, Warning, TEXT("%s"), *name2);
+	//Add 함수를 이용해서 number1과 number2 변수의 값을 구한다.
+	int32 result = CustomAdd(number1, number2);
+
+	//함수 결과로 반환된 result 값을 출력한다.
+	UE_LOG(LogTemp, Warning, TEXT("%d"), result);
 
 	
 }
@@ -33,3 +38,8 @@ void ACodingTestActor::Tick(float DeltaTime)
 
 }
 
+int32 ACodingTestActor::CustomAdd(int32 num1, int32 num2)
+{
+	int32 result = num1 + num2;
+	return result;
+}

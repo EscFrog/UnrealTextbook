@@ -26,8 +26,8 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int32 number1 = 10;
 
-	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
-	float number2 = 3.14;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	int32 number2 = 30;
 
 	FString name = "Park Man Jin";
 	
@@ -36,5 +36,9 @@ public:
 	
 	bool isReady = true;
 	bool isFinished = false;
+
+	//더하기 함수 선언
+	UFUNCTION(BlueprintCallable)
+	int32 CustomAdd(int32 num1, int32 num2);
 
 };
