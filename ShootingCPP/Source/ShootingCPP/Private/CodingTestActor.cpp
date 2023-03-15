@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+﻿// Fill out your copyright notice in the Description page of Project Settings.
 
 
 #include "CodingTestActor.h"
@@ -22,13 +22,61 @@ void ACodingTestActor::BeginPlay()
 	//UE_LOG(LogTemp, Warning, TEXT("%.2f"), number2);
 	//UE_LOG(LogTemp, Warning, TEXT("%s"), *name);
 	//UE_LOG(LogTemp, Warning, TEXT("%s"), *name2);
-	//Add �Լ��� �̿��ؼ� number1�� number2 ������ ���� ���Ѵ�.
-	int32 result = CustomAdd(number1, number2);
+	//Add 함수를 이용해서 number1과 number2 변수의 값을 구한다.
+	//int32 result = CustomAdd(number1, number2);
 
-	//�Լ� ����� ��ȯ�� result ���� ����Ѵ�.
-	UE_LOG(LogTemp, Warning, TEXT("%d"), result);
+	//함수 결과로 반환된 result 값을 출력한다.
+	//UE_LOG(LogTemp, Warning, TEXT("%d"), result);
 
-	
+	//만일, number1의 값이 100이상이라면
+	if (number1 >= 100)
+	{
+		// number1의 값이 100보다 큽니다라는 문구를 출력한다.
+		UE_LOG(LogTemp, Warning, TEXT("number1의 값이 100보다 큽니다."));
+	}
+	// 그렇지 않고 만일 number1의 값이 10보다 크다면...
+	else if (number1 >= 10)
+	{
+		// number1의 값이 10이상 100미만입니다라는 문구를 출력한다.
+		UE_LOG(LogTemp, Warning, TEXT("number1의 값이 10 이상 100 미만입니다."));
+	}
+	// 둘 다 아니라면
+	else
+	{
+		UE_LOG(LogTemp, Warning, TEXT("number1의 값이 10 미만입니다!"));
+	}
+
+	// 만일, isReady가 true라면...
+	//if (isReady)
+	//{
+	//	// Add 함수를 실행한다.
+	//	int32 result = CustomAdd(number1, number2);
+	//	UE_LOG(LogTemp, Warning, TEXT("%d"), result);
+	//}
+	//// 그렇지 않다면
+	//else
+	//{
+	//	// 준비가 안됐다는 문구를 출력한다.
+	//	UE_LOG(LogTemp, Warning, TEXT("아직 준비가 안됐습니다."));
+	//}
+
+	//for (int32 i = 0; i < 100; i++)
+	//{
+	//	// number1의 값을 1증가시킨다.
+	//	number1++;
+	//	UE_LOG(LogTemp, Warning, TEXT("%d"), number1);
+	//}
+
+	// 1부터 100까지 짝수만 출력하는 반복문
+	for (int32 i = 0; i < 100; i++)
+	{
+		int32 result = i % 2;
+
+		if (result == 0)
+		{
+			UE_LOG(LogTemp, Warning, TEXT("%d는 짝수입니다."), i);
+		}
+	}
 }
 
 // Called every frame

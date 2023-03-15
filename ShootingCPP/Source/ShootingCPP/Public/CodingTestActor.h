@@ -34,6 +34,7 @@ public:
 	UPROPERTY(EditInstanceOnly)
 	FString name2 = TEXT("박만진");
 	
+	UPROPERTY(EditAnywhere)
 	bool isReady = true;
 	bool isFinished = false;
 
