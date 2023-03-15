@@ -13,7 +13,7 @@ class SHOOTINGCPP_API ACodingTestActor : public AActor
 	
 public:	
 	// Sets default values for this actor's properties
-	ACodingTestActor();
+	ACodingTestActor();	//생성자
 
 protected:
 	// Called when the game starts or when spawned
@@ -23,9 +23,12 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+// private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int32 number1 = 10;
 
+// 접근 한정자는 한 번 선언하면 다른 접근 한정자를 만날 때 까지 그 아래에 있는 모든 변수나 함수에 적용된다.
+// public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	int32 number2 = 30;
 
